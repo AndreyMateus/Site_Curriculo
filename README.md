@@ -1,6 +1,6 @@
 # Site Pessoal
 
-Este código é um exemplo de um site pessoal/currículo, Ele consiste em uma única página com várias seções, cada uma representando informações diferentes.
+Este código é o meu site pessoal/currículo, Ele consiste em uma única página com várias seções, cada uma representando informações diferentes.
 
 O site é totalmente responsivo, com um menu de navegação que pode ser acessado em dispositivos móveis, permitindo ao usuário navegar facilmente pelas diferentes seções do site. O menu contém links para seções como Início, Sobre, Currículo, Portfolio e Contato.
 
